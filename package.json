@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@firebasegen/default": "file:generated/javascript/default",
+    "@google-cloud/storage": "^7.13.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "firebase": "^8.6.8",
+    "firebase-admin": "^12.5.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
